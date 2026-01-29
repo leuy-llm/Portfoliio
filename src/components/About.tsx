@@ -1,6 +1,6 @@
 import { Users } from "lucide-react";
 import { motion } from "framer-motion";
-import Me from "../assets/image.png";
+import Me from "../assets/image.jpg";
 
 export default function About() {
   return (
