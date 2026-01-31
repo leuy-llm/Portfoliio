@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import Me from "../assets/Me.png";
-import resume from "../assets/Curriculum Vitae.pdf";
 const HeroSection = () => {
   const [isVisible, setIsVisible] = useState(false);
   const [typedText, setTypedText] = useState("");
